@@ -21,6 +21,12 @@ pip install -r requirements.txt
 
 ### Run the code
 
+To use the first code:
+```
+Emotional_Speech_Recognition - TESS.ipynb
+```
+
+To use the second one:
 ```
 python3 crnn_tess_sentanalysis.py
 ```
